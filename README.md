@@ -15,4 +15,5 @@ Using jQuery, I used to functions to:
 5. Update the time blocks with the scheudle data
 6. Save that data and
 7. Add event listener for save button
-```
+
+![image](https://user-images.githubusercontent.com/60047114/78463626-ea378a80-7693-11ea-9014-11f5b7058f6b.png)
